@@ -1,7 +1,5 @@
 ## 长沙亿达未来信息技术有限公司
 
-<style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
-
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
     <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210260935504aku0.png"/>
