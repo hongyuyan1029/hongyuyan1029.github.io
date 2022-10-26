@@ -4,22 +4,21 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
-    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221015/202210151656424cwwa.png"/>
-    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221015/202210151656424cwwa.png">下载</a>
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210260935504aku0.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210260935504aku0.png">下载</a>
   </div>
   <div style="max-height: 200px; overflow: hidden;">
-    <b style="font-size: 16px;color: #333;">数一亿粒米</b>
-    <p style="margin: 0; font-size: 14px;color: #999;">
-- 数一亿粒米是一款用在多维度条件下灵活生成随机的实用工具； - 随机结果之间互不干扰，相互独立，做到每个生成概率相等； - 随机生成数字、字母，随机选择，摆脱你的选择困难症，帮您做出选择！ -今天吃什么？一键随机选出美食大餐，解决您的吃饭选择困难症！
+    <b style="font-size: 16px;color: #333;">小A帮</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">小A帮 1.让你了解自己的每一笔收支，帮助您养成合理消费的好习惯， 2.记账有规划，收支更有度， 3.养成好习惯，就从此刻开始吧！
 </p>
   </div>
   <div style="display: flex; margin-left: 6px;">
     <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221015/202210151658175i9jq.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/202210260938320d97x.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221015/202210151658193po2j.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/2022102609383610bg0.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221015/2022101516582222y2w.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/2022102609383904x9i.png"/>
   </div>
 </section>
 
