@@ -49,7 +49,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221028/2022102811
     <b style="font-size: 16px;color: #333;">万能连网</b>
     <p style="margin: 0; font-size: 14px;color: #999;">万能连网，一款网络小助手
 网络检测，延时、抖动等，数据真实准确，检测可靠！
-快速检测网络安全，防止钓鱼网络、假冒网络等！。
+快速检测网络安全，防止钓鱼网络、假冒网络等！
 </p>
   </div>
   <div style="display: flex; margin-left: 6px;">
