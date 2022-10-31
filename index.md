@@ -42,23 +42,24 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221028/2022102811
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
-    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221028/202210281520060odgv.png"/>
-    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221028/202210281520060odgv.png">下载</a>
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311109161dojb.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311109161dojb.png">下载</a>
   </div>
   <div style="max-height: 200px; overflow: hidden;">
-    <b style="font-size: 16px;color: #333;">万能连网</b>
-    <p style="margin: 0; font-size: 14px;color: #999;">万能连网，一款网络小助手
-网络检测，延时、抖动等，数据真实准确，检测可靠！
-快速检测网络安全，防止钓鱼网络、假冒网络等！
+    <b style="font-size: 16px;color: #333;">迷糊视频</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">迷糊视频款集视频播放、投屏、视频编辑多功能的app
+专属掌上视频播放器，精彩视频随心播。
+一键智能投屏，轻松通过实现小屏变大屏，随时畅享大屏视觉体验。
+简单实用的视频编辑工具，唤起创作的灵感
 </p>
   </div>
   <div style="display: flex; margin-left: 6px;">
     <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221028/2022102815231899w7x.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/2022103111112411kyc.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221028/202210281523199h1se.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311111305sl9y.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221028/2022102815232487hf6.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/2022103111113349h8n.png"/>
   </div>
 </section>
 
