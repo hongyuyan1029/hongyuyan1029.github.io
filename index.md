@@ -2,6 +2,27 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221109/202211091743163g4yj.jpg"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221109/202211091743163g4yj.jpg">下载</a>
+  </div>
+  <div style="max-height: 200px; overflow: hidden;">
+    <b style="font-size: 16px;color: #333;">华人视频播放</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">
+华人视频播放是一款功能比较多的视频播放器软件，可以播放绝大多数的视频，扫描本地的视频文件并且导入，各种格式都可以看，还支持投屏功能，可以将手机屏幕投射到大屏电视上，获得更好的观看体验，有需要的用户快来使用吧！
+</p>
+  </div>
+  <div style="display: flex; margin-left: 6px;">
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221109/2022110917584988176.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221109/202211091758529uro1.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221109/202211091758556j3qz.png"/>
+  </div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+  <div style="display: flex; flex-direction: column;">
     <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221107/2022110717024019o41.png"/>
     <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221107/2022110717024019o41.png">下载</a>
   </div>
