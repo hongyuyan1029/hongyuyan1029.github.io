@@ -2,6 +2,26 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/202211111705451uobo.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/202211111705451uobo.png">下载</a>
+  </div>
+  <div style="max-height: 200px; overflow: hidden;">
+    <b style="font-size: 16px;color: #333;">魔幻厨房</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">一款经典的美味菜谱，让您从此爱上厨房。 精美的图片+丰富详细的内容，更有看不完的美食视频，让你更容易上手，小白也能轻松变大厨！ 便捷的收藏功能，喜欢就毫不犹豫地留住！
+</p>
+  </div>
+  <div style="display: flex; margin-left: 6px;">
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/202211111710481n4y1.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/20221111171051826y3.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/202211111710557p92l.png"/>
+  </div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+  <div style="display: flex; flex-direction: column;">
     <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221109/202211091743163g4yj.jpg"/>
     <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221109/202211091743163g4yj.jpg">下载</a>
   </div>
@@ -60,26 +80,6 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/2022110417
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041726023azt3.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px" 
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041726062sxus.png"/>
-  </div>
-</section>
-
-<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-  <div style="display: flex; flex-direction: column;">
-    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210260935504aku0.png"/>
-    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210260935504aku0.png">下载</a>
-  </div>
-  <div style="max-height: 200px; overflow: hidden;">
-    <b style="font-size: 16px;color: #333;">花钱记录</b>
-    <p style="margin: 0; font-size: 14px;color: #999;">花钱记录 1.让你了解自己的每一笔收支，帮助您养成合理消费的好习惯， 2.记账有规划，收支更有度， 3.养成好习惯，就从此刻开始吧！
-</p>
-  </div>
-  <div style="display: flex; margin-left: 6px;">
-    <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/202210260938320d97x.png"/>
-    <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/2022102609383610bg0.png"/>
-    <img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/2022102609383904x9i.png"/>
   </div>
 </section>
 
