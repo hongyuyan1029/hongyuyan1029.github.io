@@ -2,6 +2,26 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121017108kbsk.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121017108kbsk.png">下载</a>
+  </div>
+  <div style="max-height: 200px; overflow: hidden;">
+    <b style="font-size: 16px;color: #333;">模拟人生路</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">模拟人生路是一款人生模拟器 选择你的天赋加点开启你的人生，不同的加点会使你的人生出现不同的道路，怎么选择看你！ 你可能出生在一个富豪家庭或是一个贫困家庭，有可能会一帆风顺，也有可能会困难不停，但是千万不要放弃！ 游戏中会出现随机事件，要做出正确的选择，这样会是你的人生出现新的转折，慎重哦！ 贴近现实的人生故事，搞笑的同时又能领悟出人生的道理，其实人生就是在于探索不断的未知才会变的精彩！
+</p>
+  </div>
+  <div style="display: flex; margin-left: 6px;">
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/202211121030191y25l.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/2022111210302213zqu.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/202211121030257itua.png"/>
+  </div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+  <div style="display: flex; flex-direction: column;">
     <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/202211111705451uobo.png"/>
     <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/202211111705451uobo.png">下载</a>
   </div>
