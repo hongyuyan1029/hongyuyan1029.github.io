@@ -7,8 +7,9 @@
     <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141503169su1m.png">下载</a>
   </div>
   <div style="max-height: 200px; overflow: hidden;">
-    <b style="font-size: 16px;color: #333;">新编日语</b>
-    <p style="margin: 0; font-size: 14px;color: #999;">新编日语app是一个支持中文和日语的翻译软件，日语学习者的随身学习工具，零基础轻松学日语。 智能化的错词本系统，帮你记录每一个小失误，反复巩固提升。汇聚点滴知识，成就更好的自己！
+    <b style="font-size: 16px;color: #333;">学日语</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">
+学日语app是一个支持中文和日语的翻译软件，日语学习者的随身学习工具，零基础轻松学日语。 智能化的错词本系统，帮你记录每一个小失误，反复巩固提升。汇聚点滴知识，成就更好的自己！
 </p>
   </div>
   <div style="display: flex; margin-left: 6px;">
