@@ -1,5 +1,26 @@
 ## 长沙亿达未来信息技术有限公司
 
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+  <div style="display: flex; flex-direction: column;">
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141503169su1m.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141503169su1m.png">下载</a>
+  </div>
+  <div style="max-height: 200px; overflow: hidden;">
+    <b style="font-size: 16px;color: #333;">新编日语</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">新编日语app是一个支持中文和日语的翻译软件，日语学习者的随身学习工具，零基础轻松学日语。 智能化的错词本系统，帮你记录每一个小失误，反复巩固提升。汇聚点滴知识，成就更好的自己！
+</p>
+  </div>
+  <div style="display: flex; margin-left: 6px;">
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221114/202211141515150z1os.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221114/202211141515194h2qk.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221114/202211141515237tw4p.png"/>
+  </div>
+</section>
+
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
     <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121017108kbsk.png"/>
