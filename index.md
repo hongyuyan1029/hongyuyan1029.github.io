@@ -3,8 +3,8 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
-    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141503169su1m.png"/>
-    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141503169su1m.png">下载</a>
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141846388rsos.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141846388rsos.png">下载</a>
   </div>
   <div style="max-height: 200px; overflow: hidden;">
     <b style="font-size: 16px;color: #333;">学日语</b>
