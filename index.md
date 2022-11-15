@@ -1,5 +1,26 @@
 ## 长沙亿达未来信息技术有限公司
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+  <div style="display: flex; flex-direction: column;">
+    <img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221115/202211151753265u48o.png"/>
+    <a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221115/202211151753265u48o.png">下载</a>
+  </div>
+  <div style="max-height: 200px; overflow: hidden;">
+    <b style="font-size: 16px;color: #333;">可立拍相机</b>
+    <p style="margin: 0; font-size: 14px;color: #999;">全新一款专业相机，超多滤镜让拍出的每一张照片都是不同风格。
+各种便捷的特效，让你的照片和视频瞬间变得更加美丽，满足你的任性需求。
+</p>
+  </div>
+  <div style="display: flex; margin-left: 6px;">
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/202211151802574gj71.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/202211151803367wkkv.png"/>
+    <img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/202211151803399kyox.png"/>
+  </div>
+</section>
+
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <div style="display: flex; flex-direction: column;">
