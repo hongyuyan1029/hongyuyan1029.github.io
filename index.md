@@ -7,15 +7,15 @@
   </div>
   <div style="max-height: 200px; overflow: hidden;">
     <b style="font-size: 16px;color: #333;">漫画岛</b>
-    <p style="margin: 0; font-size: 14px;color: #999;">漫画岛app，它拥有丰富的漫画次元图集，壁纸，头像，表情，二次元集聚地。可以随时在线挑选，方便又快捷。</p>
+    <p style="margin: 0; font-size: 14px;color: #999;">漫画岛app，它拥有丰富的动漫次元图片，壁纸，头像，表情，二次元集聚地。可以随时在线挑选，方便又快捷。</p>
   </div>
   <div style="display: flex; margin-left: 6px;">
     <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221123/202211231125390rvsk.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221124/202211241206426t0ha.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221123/2022112311254034n5g.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221124/202211241206459sa3z.png"/>
     <img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221123/202211231126412us5m.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221124/2022112412064992ynz.png"/>
   </div>
 </section>
 
